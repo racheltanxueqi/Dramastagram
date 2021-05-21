@@ -1,5 +1,6 @@
 import TinderCard from 'react-tinder-card'
 import React, { useState, useMemo } from 'react'
+import KoreanDramaJSON from '../../scripts/korean.json'
 
 const db = [
     {
@@ -25,10 +26,10 @@ const db = [
   ]
   
 const alreadyRemoved = []
-let charactersState = db // This fixes issues with updating characters state forcing it to use the current state and not the state that was active when the card was created.
+let charactersState = KoreanDramaJSON.dramas // This fixes issues with updating characters state forcing it to use the current state and not the state that was active when the card was created.
   
 function Dashboard() {
-    const [characters, setCharacters] = useState(db)
+    const [characters, setCharacters] = useState(KoreanDramaJSON.dramas)
     const [lastDirection, setLastDirection] = useState()
   
     const childRefs = useMemo(() => Array(db.length).fill(0).map(i => React.createRef()), [])
@@ -54,12 +55,13 @@ function Dashboard() {
         childRefs[index].current.swipe(dir) // Swipe the card!
       }
     }
+
     return (
         <div>
             <div className='cardContainer'>
                 {characters.map((character, index) =>
                 <TinderCard ref={childRefs[index]} className='swipe' key={character.name} onSwipe={(dir) => swiped(dir, character.name)} onCardLeftScreen={() => outOfFrame(character.name)}>
-                    <div style={{ backgroundImage: 'url(' + character.url + ')' }} className='card'>
+                    <div style={{ backgroundImage: 'url(' + character.imageUrl + ')' }} className='card'>
                     <h3>{character.name}</h3>
                     </div>
                 </TinderCard>
