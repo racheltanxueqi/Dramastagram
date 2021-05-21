@@ -155,3 +155,51 @@ h2 {
     transform: rotate(360deg);
   }
 } */
+
+.profile-card {
+  width: 400px;
+  border: none;
+  /* border-radius: 10px; */
+  background-color: #fff
+}
+
+.stats {
+  background: #f2f5f8 !important;
+  color: #000 !important
+}
+
+.followings {
+  font-size: 10px;
+  color: black;
+}
+
+.number1 {
+  font-weight: 500;
+  color: black;
+}
+
+.followers {
+  font-size: 10px;
+  color: black;
+}
+
+.number2 {
+  font-weight: 500;
+  color: black;
+}
+
+.row>* {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin: 0;
+  padding: 10px;
+}
+
+.tabs-section {
+  background-color: white;
+}
+
+.flex-row {
+  background-color: white;
+}
