@@ -1,0 +1,641 @@
+{
+  "dramas": [
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1332199.jpg",
+      "name": "My Roommate Is a Gumiho",
+      "year": "2021",
+      "genres": [
+        "Fantasy",
+        "Romantic comedy"
+      ],
+      "airing": "2021/05/26~Upcoming",
+      "korean_name": "간 떨어지는 동거",
+      "romanized_korean": "gan ddeol-eo-ji-neun"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1331000.jpg",
+      "name": "Mad for Each Other",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Romantic comedy",
+        "Romance"
+      ],
+      "airing": "2021/05/24~Upcoming",
+      "korean_name": "이 구역의 미친 X",
+      "romanized_korean": "i gu-yeok-eui mi-chin X"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1328918.jpg",
+      "name": "Here's My Plan",
+      "year": "2021",
+      "genres": [
+        "Family",
+        "Youth"
+      ],
+      "airing": "2021/05/19~Now airing",
+      "korean_name": "목표가 생겼다",
+      "romanized_korean": "mok-pyo-ga saeng-kyeoss-da"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1334422.jpg",
+      "name": "Move to Heaven",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/05/14",
+      "korean_name": "무브 투 헤븐 : 나는 유품정리사입니다",
+      "romanized_korean": "mu-beu tu he-beun : yu-pum-jeong-ri-sa-ib-ni-da"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1325350.jpg",
+      "name": "Doom at Your Service",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/05/10~Now airing",
+      "korean_name": "어느 날 우리 집 현관으로 멸망이 들어왔다",
+      "romanized_korean": "eo-neu nal u-ri jib hyeon-gwa-eu-ro myeol-mang deul-eo-wass-da"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1326299.jpg",
+      "name": "MINE",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "airing": "2021/05/08~Now airing",
+      "korean_name": "마인",
+      "romanized_korean": "ma-in"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1326701.jpg",
+      "name": "Imitation",
+      "year": "2021",
+      "genres": [
+        "Music",
+        "Romance"
+      ],
+      "airing": "2021/05/07~Now airing",
+      "korean_name": "이미테이션",
+      "romanized_korean": "i-mi-te-i-syeon"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1325674.jpg",
+      "name": "Youth of May",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Human",
+        "Melodrama"
+      ],
+      "airing": "2021/05/03~Now airing",
+      "korean_name": "오월의 청춘",
+      "romanized_korean": "o-wol-eui cheong-chun"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1316445.jpg",
+      "name": "Bossam: Steal the Fate",
+      "year": "2021",
+      "genres": [
+        "Historical"
+      ],
+      "airing": "2021/05/01~Now airing",
+      "korean_name": "보쌈-운명을 훔치다",
+      "romanized_korean": "b-ssam-un-myeong-eul hum-chi-da"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1327372.jpg",
+      "name": "Dark Hole",
+      "year": "2021",
+      "genres": [
+        "Fear",
+        "Thriller"
+      ],
+      "airing": "2021/04/30~Now airing",
+      "korean_name": "다크홀",
+      "romanized_korean": "da-keu-hol"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1312678.jpg",
+      "name": "Undercover",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/04/23~Now airing",
+      "korean_name": "언더커버",
+      "romanized_korean": "eon-deo-keo-beo"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1324168.jpg",
+      "name": "Drama Stage 2021 - Lucky",
+      "year": "2021",
+      "genres": [
+        "Romantic comedy"
+      ],
+      "airing": "2021/04/21",
+      "korean_name": "드라마 스테이지 2021 - 럭키",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - leok-ki"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1306264.jpg",
+      "name": "Law School",
+      "year": "2021",
+      "genres": [
+        "Legal"
+      ],
+      "airing": "2021/04/14~Now airing",
+      "korean_name": "로스쿨",
+      "romanized_korean": "lo-seu-kul"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1318896.jpg",
+      "name": "Sell Your Haunted House",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "airing": "2021/04/14~Now airing",
+      "korean_name": "대박부동산",
+      "romanized_korean": "dae-bak-bu-dong-san"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1320914.jpg",
+      "name": "Drama Stage 2021 - Proxy Emotion",
+      "year": "2021",
+      "genres": [
+        "Psychodrama",
+        "Thriller"
+      ],
+      "airing": "2021/04/14",
+      "korean_name": "드라마 스테이지 2021 - 대리인간",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - dae-ri-in-gan"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1321037.jpg",
+      "name": "Amor Fati",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/04/12~Now airing",
+      "korean_name": "아모르 파티 - 사랑하라, 지금",
+      "romanized_korean": "Amor Party, a-mo-reu-pa-ti - sa-rang-ha-ra, ji-geum"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1321301.jpg",
+      "name": "Taxi Driver",
+      "year": "2021",
+      "genres": [
+        "Action",
+        "Crime",
+        "Revenge"
+      ],
+      "airing": "2021/04/09~Now airing",
+      "korean_name": "모범택시",
+      "romanized_korean": "mo-beom-taek-si"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1318475.jpg",
+      "name": "Drama Stage 2021 - The Fair",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/04/07",
+      "korean_name": "드라마 스테이지 2021 - 더 페어",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - deo pe-eo"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1316085.jpg",
+      "name": "Drama Stage 2021 - On the Way to the Gynecologist",
+      "year": "2021",
+      "genres": [
+        "Black comedy"
+      ],
+      "airing": "2021/03/31",
+      "korean_name": "드라마 스테이지 2021 - 산부인과로 가는길",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - san-bu-in-gwa-ro ga-neun-gil"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1305120.jpg",
+      "name": "Summer Guys",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Youth",
+        "Music"
+      ],
+      "airing": "2021/03/30~2021/04/28",
+      "korean_name": "썸머가이즈",
+      "romanized_korean": "sseom-meo-ga-i-jeu"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1312661.jpg",
+      "name": "Be My Dream Family",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/03/29~Now airing",
+      "korean_name": "속아도 꿈결",
+      "romanized_korean": "sok-a-do ggum-gyeol"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1313287.jpg",
+      "name": "Scripting Your Destiny",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/03/26",
+      "korean_name": "당신의 운명을 쓰고 있습니다",
+      "romanized_korean": "dang-sin-eui un-myeong-eun sseu-go iss-seub-ni-da"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1311904.jpg",
+      "name": "Oh My Ladylord",
+      "year": "2021",
+      "genres": [
+        "Romantic comedy",
+        "Melodrama",
+        "Romance"
+      ],
+      "airing": "2021/03/24~2021/05/13",
+      "korean_name": "오! 주인님",
+      "romanized_korean": "o! ju-in-nim"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1315400.jpg",
+      "name": "The Sweet Blood",
+      "year": "2021",
+      "genres": [
+        "Fantasy",
+        "Romance",
+        "Web-drama"
+      ],
+      "airing": "2021/03/24~2021/05/12",
+      "korean_name": "달달한 그놈",
+      "romanized_korean": "dal-dal-han geu-nom"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1313023.jpg",
+      "name": "Drama Stage 2021 - Love Spoiler",
+      "year": "2021",
+      "genres": [
+        "Romance"
+      ],
+      "airing": "2021/03/24",
+      "korean_name": "드라마 스테이지 2021 - 러브 스포일러",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - leo-beu seu-po-i-leo"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1303835.jpg",
+      "name": "Navillera",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Human"
+      ],
+      "airing": "2021/03/22~2021/04/27",
+      "korean_name": "나빌레라",
+      "romanized_korean": "na-bil-le-ra"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1306305.jpg",
+      "name": "Joseon Exorcist",
+      "year": "2021",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Historical"
+      ],
+      "airing": "2021/03/22~2021/03/23",
+      "korean_name": "조선구마사",
+      "romanized_korean": "jo-seon-gu-ma-sa"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1313821.jpg",
+      "name": "Drama Festa - Missing Child",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/03/22~2021/03/23",
+      "korean_name": "드라마 페스타 - 아이를 찾습니다",
+      "romanized_korean": "deu-ra-ma pe-seu-ta - a-i-leul chach-seub-ni-da"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1311147.jpg",
+      "name": "Drama Stage 2021 - Attention Hog",
+      "year": "2021",
+      "genres": [
+        "Black comedy"
+      ],
+      "airing": "2021/03/17",
+      "korean_name": "드라마 스테이지 2021 - 관종",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - kwan-jong"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1310945.jpg",
+      "name": "Drama Stage 2021 - Park Sung-sil's Fourth Industrial Revolution",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/03/16",
+      "korean_name": "드라마 스테이지 2021 - 박성실 씨의 사차 산업혁명",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - park-seong-il ssi-eui sa-cha san-eob-hyeok-myeong"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1307129.jpg",
+      "name": "Drama Festa - Off The Course",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/03/15~2021/03/16",
+      "korean_name": "드라마 페스타 - 경로를 이탈하였습니다",
+      "romanized_korean": "deu-ra-ma pe-seu-ta - gyeo-ro-leul i-tal-ha-yeoss-seub-ni-da"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1310600.jpg",
+      "name": "Drama Stage 2021 - Deok-gu Is Back",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "airing": "2021/03/15",
+      "korean_name": "드라마 스테이지 2021 - 덕구 이즈 백",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - deok-gu i-jeu baek"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1309555.jpg",
+      "name": "Revolutionary Sisters",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/03/13~Now airing",
+      "korean_name": "오케이 광자매",
+      "romanized_korean": "o-ke-i kwang-ja-mae"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1305963.jpg",
+      "name": "Love Alarm - Season 2",
+      "year": "2021",
+      "genres": [
+        "Romance"
+      ],
+      "airing": "2021/03/12",
+      "korean_name": "좋아하면 울리는 시즌2",
+      "romanized_korean": "Love Alarm - Season 2"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1308684.jpg",
+      "name": "Drama Stage 2021 - EP, Hi Dorothy",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/03/10",
+      "korean_name": "드라마 스테이지 2021 - EP, 안녕 도로시",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - EP, an-nyeong do-ro-si"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1303878.jpg",
+      "name": "Mouse",
+      "year": "2021",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "airing": "2021/03/03~2021/05/19",
+      "korean_name": "마우스",
+      "romanized_korean": "ma-u-seu"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1306156.jpg",
+      "name": "Drama Stage 2021 - Mint Condition",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "airing": "2021/03/03",
+      "korean_name": "드라마 스테이지 2021 - 민트 컨디션",
+      "romanized_korean": "deu-ra-ma seu-te-i-ji 2021 - min-teu keon-di-syeon"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1307109.jpg",
+      "name": "Will You Leave?",
+      "year": "2021",
+      "genres": [
+        "Fantasy",
+        "Music",
+        "Romance"
+      ],
+      "airing": "2021/02/26~2021/03/26",
+      "korean_name": "가시리잇고",
+      "romanized_korean": "ga-si-ri-it-go"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1314824.jpg",
+      "name": "Be My Boyfriend",
+      "year": "2021",
+      "genres": [
+        "Romantic comedy",
+        "Youth",
+        "Web-drama"
+      ],
+      "airing": "2021/02/25~2021/04/15",
+      "korean_name": "오늘부터 계약연애",
+      "romanized_korean": "o-neul-bu-teo gye-yak-yeon-ae"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1303821.jpg",
+      "name": "Vincenzo",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Romance",
+        "Thriller"
+      ],
+      "airing": "2021/02/20~2021/05/02",
+      "korean_name": "빈센조",
+      "romanized_korean": "bin-sen-jo"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1298343.jpg",
+      "name": "Times",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/02/20~2021/03/28",
+      "korean_name": "타임즈",
+      "romanized_korean": "ta-im-jeu"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1304229.jpg",
+      "name": "Beyond Evil",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "airing": "2021/02/19~2021/04/10",
+      "korean_name": "괴물",
+      "romanized_korean": "gwi-mul"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1303373.jpg",
+      "name": "The Penthouse 2",
+      "year": "2021",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Provocative (Makjang)",
+        "Thriller",
+        "Revenge"
+      ],
+      "airing": "2021/02/19~2021/04/02",
+      "korean_name": "펜트하우스2",
+      "romanized_korean": "pen-teu-ha-u-seu 2"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1304019.jpg",
+      "name": "Hi! Touch!",
+      "year": "2021",
+      "genres": [
+        "Sports",
+        "Web-drama"
+      ],
+      "airing": "2021/02/19",
+      "korean_name": "하이!터치",
+      "romanized_korean": "ha-i-!-teo-chi!"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1296264.jpg",
+      "name": "Sisyphus: The Myth",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Science-Fiction"
+      ],
+      "airing": "2021/02/17~2021/04/08",
+      "korean_name": "시지프스: the myth",
+      "romanized_korean": "si-ji-peu-seu: the myth"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1297183.jpg",
+      "name": "Hello, Me!",
+      "year": "2021",
+      "genres": [
+        "Romantic comedy",
+        "Fantasy"
+      ],
+      "airing": "2021/02/17~2021/04/08",
+      "korean_name": "안녕? 나야!",
+      "romanized_korean": "an-nyeong? na-ya!"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1298848.jpg",
+      "name": "Miss Monte-Cristo",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/02/15~Now airing",
+      "korean_name": "미스 몬테크리스토",
+      "romanized_korean": "mi-seu mon-te-keu-ri-seu-to"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1310222.jpg",
+      "name": "River Where the Moon Rises",
+      "year": "2021",
+      "genres": [
+        "Historical",
+        "Romance"
+      ],
+      "airing": "2021/02/15~2021/04/20",
+      "korean_name": "달이 뜨는 강",
+      "romanized_korean": "dal-eui ddeu-neun kang"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1300651.jpg",
+      "name": "Mr. Queen - Bamboo Forest",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Historical",
+        "Romance"
+      ],
+      "airing": "2021/02/13~2021/02/14",
+      "korean_name": "철인왕후: 대나무숲",
+      "romanized_korean": "cheol-in-wang-hu: da-na-mu-sup"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1296431.jpg",
+      "name": "Gumiho Recipe",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Music",
+        "Romance"
+      ],
+      "airing": "2021/02/12~2021/02/13",
+      "korean_name": "구미호 레시피",
+      "romanized_korean": "gu-mi-ho re-si-pi"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1305062.jpg",
+      "name": "Breakup Probation, A Week",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Melodrama",
+        "Romance"
+      ],
+      "airing": "2021/02/05",
+      "korean_name": "이별유예, 일주일",
+      "romanized_korean": "i-byeol-yu-ye, il-ju-il"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1289773.jpg",
+      "name": "L.U.C.A. : The Beginning",
+      "year": "2021",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "airing": "2021/02/01~2021/03/09",
+      "korean_name": "루카 : 더 비기닝",
+      "romanized_korean": "lu-ka"
+    },
+    {
+      "imageUrl": "https://photos.hancinema.net/photos/photo1292604.jpg",
+      "name": "Love Scene Number",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "airing": "2021/02/01~2021/02/02",
+      "korean_name": "러브씬넘버#",
+      "romanized_korean": "leo-beu-ssin-neom-beo#"
+    }
+  ]
+}
