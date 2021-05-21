@@ -10,7 +10,7 @@ import Profile from './pages/profile';
 
 import NavBar from './components/NavBar';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import Login from './pages/login';
 
 function App() {
   return (
@@ -19,6 +19,9 @@ function App() {
       <Switch>
         <Route exact path="/">
           <Dashboard />
+        </Route>
+        <Route exact path="/Login">
+          <Login />
         </Route>
         <Route exact path="/profile">
           <Profile />

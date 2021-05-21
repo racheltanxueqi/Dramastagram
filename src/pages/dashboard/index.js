@@ -71,6 +71,7 @@ function Dashboard() {
                 <button onClick={() => swipe('left')}>Not My Taste</button>
                 <button onClick={() => swipe('right')}>Interested</button>
             </div>
+
             {lastDirection ? <h4 key={lastDirection} className='infoText'>You swiped {lastDirection === "left" ? "Not My Taste" : "Interested"}!</h4> : <h4 className='infoText'>Swipe a card or press a button to get started!</h4>}
         </div>    )
 }
