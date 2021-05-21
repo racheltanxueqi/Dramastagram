@@ -4,9 +4,10 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import Dashboard from './pages/dashboard';
+import NavBar from './components/NavBar';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
@@ -28,12 +29,13 @@ function App() {
     //   </header>
     // </div>
     <Router>
+      <NavBar/>
       <Switch>
         <Route path="/">
             <Dashboard />
         </Route>
       </Switch>
-    </Router>
+    </Router>    
   );
 }
 
