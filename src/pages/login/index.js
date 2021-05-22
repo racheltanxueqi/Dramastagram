@@ -1,9 +1,14 @@
 import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import firebase from '../../firebase/firebase';
 import { Form, Button, Alert } from 'react-bootstrap';
 
+import { useHistory } from 'react-router-dom'
+import useAuth from '../../firebase/firebaseAuth'
 function Login() {
     const [show, setShow] = useState(false);
+    const history = useHistory()
+    const { pending, isSignedIn, user } = useAuth()
 
     function onSignIn(e) {
         e.preventDefault()        
@@ -11,6 +16,11 @@ function Login() {
             .auth()
             .signInWithEmailAndPassword(e.target.form[0].value, e.target.form[1].value)
             .then(res => console.log(res))
+            .then(res => {
+                // Reroute to '/'
+                console.log(res)
+                history.push('/')
+            })
             .catch(error => setShow(true))
     }
 

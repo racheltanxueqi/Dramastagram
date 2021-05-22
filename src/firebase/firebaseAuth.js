@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import firebase, { auth } from 'firebase'
+import firebase, { auth } from './firebase'
 
 export default function useAuth() {
     const initialState = {
@@ -10,7 +10,7 @@ export default function useAuth() {
     const [authState, setAuthState] = useState(initialState)
 
     useEffect(() => {
-        const unregisterAuthObserver = auth().onAuthStateChanged(user =>
+        const unregisterAuthObserver = auth.onAuthStateChanged(user =>
           setAuthState({ user, pending: false, isSignedIn: !!user })
         )
         return () => unregisterAuthObserver()

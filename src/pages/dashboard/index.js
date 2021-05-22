@@ -1,7 +1,11 @@
 import TinderCard from 'react-tinder-card'
-import React, { useState, useMemo } from 'react'
+import React, { useState, useMemo, useEffect } from 'react'
 import KoreanDramaJSON from '../../scripts/korean.json'
 
+import { useHistory } from 'react-router-dom'
+
+import useAuth from '../../firebase/firebaseAuth'
+ 
 const db = [
     {
       name: 'Richard Hendricks',
@@ -31,6 +35,21 @@ let charactersState = KoreanDramaJSON.dramas // This fixes issues with updating 
 function Dashboard() {
     const [characters, setCharacters] = useState(KoreanDramaJSON.dramas)
     const [lastDirection, setLastDirection] = useState()
+
+    const { pending, isSignedIn, user } = useAuth()
+
+    const history = useHistory()
+
+    useEffect(() => {
+      if (!pending) {
+          if (!isSignedIn) {
+            // change page state to login if  we dont have user object or not whatever
+            history.push('/login')
+          } else {
+            // I'm signed in 
+          }
+      }
+    }, [pending, isSignedIn, user])
   
     const childRefs = useMemo(() => Array(db.length).fill(0).map(i => React.createRef()), [])
   
